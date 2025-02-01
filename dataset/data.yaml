@@ -1,0 +1,4 @@
+train: C:\Users\aksha\OneDrive\Documents\ML_PROJECTS_KRISH\014_VizExperts_02\dataset\images\train
+val: C:\Users\aksha\OneDrive\Documents\ML_PROJECTS_KRISH\014_VizExperts_02\dataset\images\valid
+nc: 1  # Number of classes
+names: ["pillar"]
