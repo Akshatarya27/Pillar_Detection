@@ -31,3 +31,5 @@ This project uses **YOLOv8** for real-time object detection of **pillars** in im
   Download Options:
   Download the processed image with bounding boxes.
   Download the coordinates of the detected pillars in an Excel file.
+
+![Processed Image](detected_image.jpg)
