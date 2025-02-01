@@ -20,7 +20,8 @@ This project uses **YOLOv8** for real-time object detection of **pillars** in im
   ```bash
   streamlit run app.py
 
-3. **Use the App:**
+3. **Use the App**:
+  ```bash
   Upload an image containing pillars.
   The app detects the pillars and displays both the original and processed images with bounding boxes.
   Download the processed image and the coordinates of the detected pillars in Excel format.
