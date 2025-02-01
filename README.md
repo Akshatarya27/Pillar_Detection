@@ -17,16 +17,14 @@ This project uses **YOLOv8** for real-time object detection of **pillars** in im
    pip install streamlit opencv-python numpy ultralytics Pillow pandas
    
 2. **Run Streamlit App**:
-  ```bash
-  streamlit run app.py
+  streamlit run new_yolo.py
 
 3. **Use the App**:
-  ```bash
   Upload an image containing pillars.
   The app detects the pillars and displays both the original and processed images with bounding boxes.
   Download the processed image and the coordinates of the detected pillars in Excel format.
 
-##🧠 YOLOv8 in Action
+## 🧠 YOLOv8 in Action
   Image Upload: Upload an image that contains pillars.
   Detection: YOLOv8 detects the pillars and draws bounding boxes around them.
   Results: The processed image is shown with bounding boxes, and the coordinates of the detected pillars are displayed below the image.
